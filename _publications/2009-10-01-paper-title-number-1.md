@@ -1,9 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Addictive Glamorization: Enterprising Influencers and the Reimagining of Thai Urban Identity through Aspirational Femininity"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In contemporary Bangkok, a distinct entrepreneurial niche has emerged among female influencers educated at elite international schools in the Silom–Asoke corridor. These "dek inter" (internationally educated) influencers deploy enterprise self-branding, visual digital media, and business ventures to reinforce high-class entrepreneurial feminine values. Their content simultaneously produces and transmits affects of aspirational femininity to young audiences who often possess substantial economic privilege, though less entrenched than that of the content creators themselves.
+
+This aspirational femininity manifests in distinctive consumption patterns: Triam Udom Suksa students receive boutique-packaged Thai tea cakes via Grab delivery at school gates; Chulalongkorn interns unwind over Spanish tapas at The Commons; Longchamp bags rest casually on metal sheet tables at street-side Isaan restaurants. 
+
+Thai youth describe this phenomenon as "tid glam" (addictive glamorization), a relationship wherein individuals from lower socioeconomic backgrounds become symbolically invested in content marketed aspirationally by those from higher strata. What distinguishes this dynamic from conventional celebrity influence or aspirational marketing is its specifically gendered dimension within the Thai context. The content creators project an entrepreneurial femininity that fuses business acumen with traditionally "glam" feminine aesthetic and relational qualities. Their audience—predominantly middle-class high school students—consumes this content not merely as entertainment but as instructional material for potential social mobility and cultural critique.'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
