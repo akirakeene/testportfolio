@@ -16,10 +16,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * **Rosenfield Program in Public Affairs (Grinnell College)**                           Mar 2023 – Present
+  * *Organizer and Executive Committee Member*
+  * Coordinated symposia, guest speakers, program study trips, and sponsored campus events on public affairs, international relations, and human rights in collaboration with team of five peers and five faculty advisors.
 
 * Fall 2015: Research Assistant
   * GitHub University
