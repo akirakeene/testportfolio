@@ -9,7 +9,7 @@ This aspirational femininity manifests in distinctive consumption patterns: Tria
 
 Thai youth describe this phenomenon as "tid glam" (addictive glamorization), a relationship wherein individuals from lower socioeconomic backgrounds become symbolically invested in content marketed aspirationally by those from higher strata. What distinguishes this dynamic from conventional celebrity influence or aspirational marketing is its specifically gendered dimension within the Thai context. The content creators project an entrepreneurial femininity that fuses business acumen with traditionally "glam" feminine aesthetic and relational qualities. Their audience—predominantly middle-class high school students—consumes this content not merely as entertainment but as instructional material for potential social mobility and cultural critique.'
 
-'In Influencer and Gender Politics in Southeast Asia, edited by Annisa Beta, Hao Zheng, and Crystal Abidin. Forthcoming 2026.'
+venue: 'In Influencer and Gender Politics in Southeast Asia, edited by Annisa Beta, Hao Zheng, and Crystal Abidin. Forthcoming 2026.'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
