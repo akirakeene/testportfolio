@@ -1,6 +1,6 @@
 layout: archive
 title: "CV"
-permalink: https://akirakeene.github.io/testportfolio/cv/
+permalink: /cv/
 author_profile: true
 redirect_from: https://akirakeene.github.io/testportfolio/
   - /resume
