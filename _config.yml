@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Akira Keene"
-  pronouns         : # example: "they/them"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "they/them"  
+  bio              : "Transnational Class Ethnographer of Digital Cultures"
+  location         : "Grinnell, Iowa & Bangkok, Thailand"
+  employer         : "Grinnell College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "teotrako@grinnell.edu" 
 
   # Academic websites
   academia         : # URL
