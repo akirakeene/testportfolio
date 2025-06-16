@@ -26,6 +26,19 @@ Work experience (Grinnell College)
   * Implemented a file management and use-case ontology diagram to optimize office operations.
   * Curated & digitized a 20-year historical archive of legal records, correspondence, and policy documents.
 
+Work experience (Bangkok)
+======
+* **TEDx Triam Udom Suksa Youth**, *Project Manager*
+  * Implemented a file management and use-case ontology diagram to optimize office operations.
+  * Curated & digitized a 20-year historical archive of legal records, correspondence, and policy documents.
+
+* **Thailand International Model United Nations**, *Project Manager*
+  * Implemented a file management and use-case ontology diagram to optimize office operations.
+  * Curated & digitized a 20-year historical archive of legal records, correspondence, and policy documents.
+ 
+* **Thai Student Union**, *Fieldwork Coordinator*
+  * Implemented a file management and use-case ontology diagram to optimize office operations.
+  * Curated & digitized a 20-year historical archive of legal records, correspondence, and policy documents.
   
 Skills
 ======
