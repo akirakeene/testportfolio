@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: https://akirakeene.github.io/testportfolio/akirakeene
 title: "Transnational Class Researcher of Youth Digital Cultures in Southeast Asia"
 author_profile: true
 redirect_from: https://akirakeene.github.io/testportfolio/
