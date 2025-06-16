@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/684ba364-6698-4e25-9120-7b6195a3d8d3)---
 layout: archive
 title: "CV"
 permalink: https://akirakeene.github.io/testportfolio/cv/
