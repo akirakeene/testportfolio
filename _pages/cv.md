@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/684ba364-6698-4e25-9120-7b6195a3d8d3)---
 layout: archive
 title: "CV"
 permalink: https://akirakeene.github.io/testportfolio/cv/
@@ -14,21 +14,19 @@ Education
 * B.A. in Political Science, Sociology and Psychology, Grinnell College, 2028 (expected)
 * High School Diploma, Arts-Mathematics (Accounting), Triam Udom Suksa School, 2024
 
-Work experience
+Work experience (Grinnell College)
 ======
-  * **Rosenfield Program in Public Affairs (Grinnell College)**                           Mar 2023 – Present
-  * *Organizer and Executive Committee Member*
+* **Rosenfield Program in Public Affairs**, *Organizer and Executive Committee Member* (Mar 2025 – )
   * Coordinated symposia, guest speakers, program study trips, and sponsored campus events on public affairs, international relations, and human rights in collaboration with team of five peers and five faculty advisors.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **The Scarlet and Black**, *Staff Writer* (Jan 2025 - )
+  *  “Reflecting on Southeast Asian identity after faculty trip email”
+  *  “Sustainability initiatives think beyond recycling, advocate for education and institutional memory”
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Office of Disability Resources**, *User-Expert Access Auditor & Digital Projects Assistant*
+  * Implemented a file management and use-case ontology diagram to optimize office operations.
+  * Curated & digitized a 20-year historical archive of legal records, correspondence, and policy documents.
+
   
 Skills
 ======
